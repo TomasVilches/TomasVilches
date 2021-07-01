@@ -2,7 +2,7 @@
 
 Soy Tomás. Reclutador de perfiles IT para DataArt, una compañía con presencia en diferentes países de Latam, Europa y USA. Me considero un admirador del mundo IT y trato de conseguir el puesto ideal para las personas ideales :D
 
-También podes encontrarme en mi Linkedin o mi Mail, siempre están abirtos para cualquier duda o información que necesiten.
+También podes encontrarme en mi Linkedin o mi Mail, siempre están abiertos para cualquier duda o información que necesiten.
 
 <img width="300" alt=dataart src="https://user-images.githubusercontent.com/84922157/124190128-296fa980-da98-11eb-8a56-1b3e2ae97d89.png">
 
